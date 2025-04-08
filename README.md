@@ -9,8 +9,13 @@ CASAPose is a dense correspondence-based model that excels in occluded or comple
 To ensure environment reproducibility and dependency isolation, it is recommended to create **separate Conda environments** for each model using the instructions provided in their respective folders.
 
 ### 1. Clone the Repository
+```bash
+git clone https://github.com/rram3n/uom_yr3_project_pose_estimate.git  # clone
+```
 
-### 2. Set up Conda Envrionment (follow the instrucutions in each folder for the requirements)
+### 2. Set up Conda Envrionment
+
+Please follow the setup instructions in each folder to setup the models individually.
 
 ### 3. Producing Inference Results
 ```bash
