@@ -10,7 +10,7 @@ To ensure environment reproducibility and dependency isolation, it is recommende
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/rram3n/uom_yr3_project_pose_estimate.git  # clone
+git clone https://github.com/rram3n/uom_yr3_project_pose_estimate.git
 ```
 
 ### 2. Set up Conda Envrionment
