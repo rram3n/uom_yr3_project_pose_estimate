@@ -1,0 +1,1 @@
+python test_casapose.py -c config/config_8.ini --load_h5_weights 1 --load_h5_filename ../../../data/pretrained_models/result_w_8 --datatest $DATAPATH/lmo/test --datameshes $DATAPATH/lmo/models --train_vectors_with_ground_truth 0 --save_eval_batches 1
